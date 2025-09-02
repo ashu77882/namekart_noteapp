@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "pom.xml",
-      "use": "@vercel-community/java",
+      "use": "@sf-prod/vercel-java",
       "config": {
         "javaVersion": "17"
       }
