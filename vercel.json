@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "pom.xml",
-      "use": "vercel-java-runtime"
+      "use": "maxd/vercel-java"
     }
   ],
   "routes": [
